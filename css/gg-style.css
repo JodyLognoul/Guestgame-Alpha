@@ -1,0 +1,16 @@
+#bgCanvas {
+    position: fixed;
+}
+ 
+.wrapper {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+ 
+.content-wrapper {
+    width: 920px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #fff;
+}
